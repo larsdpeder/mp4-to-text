@@ -14,9 +14,9 @@ This project converts audio from MP4 video files to text using OpenAI's Whisper 
 
 1. Clone the repository:
 
-2. 2. Navigate to the project directory:
+2. Navigate to the project directory:
   
-   3. 3. Install the required dependencies:
+3. Install the required dependencies:
      
 ## Usage
 
